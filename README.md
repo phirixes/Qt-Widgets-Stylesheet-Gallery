@@ -13,22 +13,38 @@ This folder contains various Qt widget stylesheet examples designed to help deve
 目录结构 / Directory Structure
 
 · button_styles.py - QPushButton控件的样式表示例 / QPushButton widget stylesheet examples
+
 · label_styles.py - QLabel控件的样式表示例 / QLabel widget stylesheet examples
+
 · combobox_styles.py - QComboBox控件的样式表示例 / QComboBox widget stylesheet examples
+
 · lineedit_styles.py - QLineEdit控件的样式表示例 / QLineEdit widget stylesheet examples
+
 · slider_styles.py - QSlider控件的样式表示例 / QSlider widget stylesheet examples
+
 · checkbox_styles.py - QCheckBox控件的样式表示例 / QCheckBox widget stylesheet examples
+
 · global_styles.py - 全局样式表示例 / Global stylesheet examples
+
 · progressbar_styles.py - QProgressBar控件的样式表示例 / QProgressBar widget stylesheet examples
+
 · textedit_styles.py - QTextEdit控件的样式表示例 / QTextEdit widget stylesheet examples
+
 · radiobutton_styles.py - QRadioButton控件的样式表示例 / QRadioButton widget stylesheet examples
+
 · tablewidget_styles.py - QTableWidget控件的样式表示例 / QTableWidget widget stylesheet examples
+
 · tabwidget_styles.py - QTabWidget控件的样式表示例 / QTabWidget widget stylesheet examples
+
 · listwidget_styles.py - QListWidget控件的样式表示例 / QListWidget widget stylesheet examples
+
 · treewidget_styles.py - QTreeWidget控件的样式表示例 / QTreeWidget widget stylesheet examples
+
 · scrollbar_styles.py - QScrollBar控件的样式表示例 / QScrollBar widget stylesheet examples
+
 · splitter_styles.py - QSplitter控件的样式表示例 / QSplitter widget stylesheet examples
 · README.md - 本说明文件 / This documentation file
+
 
 如何使用 / How to Use
 
