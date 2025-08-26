@@ -43,6 +43,7 @@ This folder contains various Qt widget stylesheet examples designed to help deve
 · scrollbar_styles.py - QScrollBar控件的样式表示例 / QScrollBar widget stylesheet examples
 
 · splitter_styles.py - QSplitter控件的样式表示例 / QSplitter widget stylesheet examples
+
 · README.md - 本说明文件 / This documentation file
 
 
